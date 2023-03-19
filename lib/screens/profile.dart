@@ -81,7 +81,7 @@ class _Profile_pageState extends State<Profile_page> {
                 },
                 style: ElevatedButton.styleFrom(
                     side: const BorderSide(
-                        width: 2, color: Color.fromARGB(255, 48, 206, 61)),
+                        width: 2, color: Color.fromARGB(255, 102, 187, 109)),
                     backgroundColor: const Color.fromARGB(255, 48, 206, 61),
                     padding: const EdgeInsets.symmetric(
                         vertical: 10, horizontal: 20)),
