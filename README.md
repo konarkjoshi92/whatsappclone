@@ -1,6 +1,9 @@
 # whats_appclone
 
 A new Flutter project.
+WhatsApp clone app is Built with the Flutter framework, the app is designed to run seamlessly on both Android and iOS devices, delivering a consistent user experience across platforms. 
+Firebase is used as the backend for the app, providing secure authentication, real-time messaging, and cloud storage for user data.
+ Users can create an account, log in securely, and then add friends by their phone number. 
 
 ## Getting Started
 
